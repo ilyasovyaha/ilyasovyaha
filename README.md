@@ -50,3 +50,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyasovyaha)](https://github.com/ilyasovyaha/github-readme-stats)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
